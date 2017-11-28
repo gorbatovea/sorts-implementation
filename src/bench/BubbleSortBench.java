@@ -1,4 +1,4 @@
-/* ru.mail.polis.bench;
+/*package bench;
 
 import java.util.concurrent.TimeUnit;
 
